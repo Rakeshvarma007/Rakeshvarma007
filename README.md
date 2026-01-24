@@ -15,10 +15,8 @@
 
 ---
 
-
-## 🧊Contribution:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 <p align="left">
@@ -38,11 +36,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshvarma007&theme=dark&layout=compact" alt="Languages" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakeshvarma007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakeshvarma007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🧊Contribution:
+![](./profile-3d-contrib/profile-night-rainbow.svg)
