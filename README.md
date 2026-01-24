@@ -18,16 +18,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/31705163" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-<a href="https://x.com/Rakesh_Varma0" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-<a href="mailto:rakeshvarmasirivuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+## 🧊Contribution:
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📊 GitHub Analytics:
 <p align="center">
@@ -36,5 +31,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshvarma007&theme=dark&layout=compact" alt="Languages" />
 </p>
 
-## 🧊Contribution:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+## 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/31705163" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://x.com/Rakesh_Varma0" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+<a href="mailto:rakeshvarmasirivuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
