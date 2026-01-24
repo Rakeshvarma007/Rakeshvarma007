@@ -1,29 +1,41 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70505&width=435&lines=Hi+I'm+Rakesh+Varma;Enthusiastic+about+Machine+learning;I+love+building+cool+stuff)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70505&width=500&lines=Hi+I'm+Rakesh+Varma;ML+Enthusiast;Building+the+Future+of+AI" alt="Typing SVG" />
+</div>
 
 # 💫 About Me:
-🎓 A  B.Tech. Computer Science and Engineering student at Indian Institute of Information Technology Sri City.<br>📈building strong skills in Python , mathematics [ Advanced Calculas , Linear Algebra , Probability and Statistics ] , NUMPY , PANDAS , MATPLOTLIB , SCIKIT LEARN , SEABORN , PYTORCH , TRANSFORMERS , OPENCV , STREAMLIT.<br>🎯Carrier Focus : MACHINE LEARNING , DEEP LEARNING , ARTIFICIAL NEURAL NETWORKS , LARGE LANGUAGE MODELS, TRANSFORMERS ARCHITECTURE , CLOUD COMPUTING.<br>🔥Ready for any challenge or opportunity.
+🎓 **B.Tech. Computer Science & Engineering** student at **IIIT Sri City**.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Venkata Rakesh Varma Sirivuri) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31705163) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rakesh_Varma0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshvarmasirivuri@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakeshvarma007&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rakeshvarma007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshvarma007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakeshvarma007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakeshvarma007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 📈 **Core Skills:** Python, Mathematics ($Calculus$, $Linear\ Algebra$, $Statistics$), NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, PyTorch, Transformers, OpenCV, Streamlit.
+* 🎯 **Career Focus:** Machine Learning, Deep Learning, ANN, LLMs, Transformer Architectures, Cloud Computing.
+* 🔥 **Ready for any challenge or opportunity.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rakeshvarma007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/31705163" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://x.com/Rakesh_Varma0" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+<a href="mailto:rakeshvarmasirivuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+*(Note: I updated these to 'for-the-badge' style for a cleaner, bolder look)*
+
+## 📊 GitHub Analytics:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rakeshvarma007&theme=dark&show_icons=true&include_all_commits=true" alt="Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rakeshvarma007&theme=dark" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshvarma007&theme=dark&layout=compact" alt="Languages" />
+</p>
+
+## 🏆 Achievements & Trophies:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rakeshvarma007&theme=radical&column=7" alt="Trophies" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Rakeshvarma007&icon=0&color=0" alt="Visit Count" />
+</p>
