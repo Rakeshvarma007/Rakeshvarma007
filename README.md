@@ -2,6 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70505&width=500&lines=Hi+I'm+Rakesh+Varma;ML+Enthusiast;Building+the+Future+of+AI" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Machine%20Learning%20Engineer&fontSize=40&animation=fadeIn" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzBxdmlyN3MwaG5qbmZpZzBxdmlyN3MwaG5qbmZpZzBxdmlyN3MmcGlkPWFwaV9lc2gmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjP87Vj0v6S6A/giphy.gif" width="300">
+</p>
+
 # 💫 About Me:
 🎓 **B.Tech. Computer Science & Engineering** student at **IIIT Sri City**.
 
