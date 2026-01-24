@@ -11,6 +11,11 @@
 
 ---
 
+
+## 🧊Contribution:
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,9 +26,6 @@
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-
-## 🧊 3D Contribution Map:
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 📊 GitHub Analytics:
 <p align="center">
