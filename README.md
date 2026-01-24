@@ -3,11 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Machine%20Learning%20Engineer&fontSize=40&animation=fadeIn" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzBxdmlyN3MwaG5qbmZpZzBxdmlyN3MwaG5qbmZpZzBxdmlyN3MmcGlkPWFwaV9lc2gmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjP87Vj0v6S6A/giphy.gif" width="300">
+  <img src="[PASTE_YOUR_GIPHY_LINK_HERE](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oMWttMXZ5czV2bThwc3Bhd2FzdThsaHIxb2g5cml1dm9ma2RkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1CrvUCoMxhy8/giphy.gif)" width="400" />
 </p>
 
 # 💫 About Me:
