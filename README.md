@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70505&width=435&lines=Hi+I'm+Rakesh+Varma;Enthusiastic+about+Machine+learning;I+love+building+cool+stuff)
+
 # 💫 About Me:
 🎓 A  B.Tech. Computer Science and Engineering student at Indian Institute of Information Technology Sri City.<br>📈building strong skills in Python , mathematics [ Advanced Calculas , Linear Algebra , Probability and Statistics ] , NUMPY , PANDAS , MATPLOTLIB , SCIKIT LEARN , SEABORN , PYTORCH , TRANSFORMERS , OPENCV , STREAMLIT.<br>🎯Carrier Focus : MACHINE LEARNING , DEEP LEARNING , ARTIFICIAL NEURAL NETWORKS , LARGE LANGUAGE MODELS, TRANSFORMERS ARCHITECTURE , CLOUD COMPUTING.<br>🔥Ready for any challenge or opportunity.
 
