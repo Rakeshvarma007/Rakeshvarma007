@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Analytics:
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rakeshvarma007&theme=dark" alt="Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rakeshvarma007&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshvarma007&theme=dark&layout=compact" alt="Languages" />
 </p>
 
