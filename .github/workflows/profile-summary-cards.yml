@@ -19,4 +19,4 @@ jobs:
         with:
           USERNAME: Rakeshvarma007
           CARD_TIMEZONE: Asia/Kolkata
-          THEME: default
+          THEME: github_dark
