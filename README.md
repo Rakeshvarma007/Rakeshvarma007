@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="./github-profile-summary-cards-output/default/0-profile-details.svg" alt="Profile Details" />
-  <img src="./github-profile-summary-cards-output/default/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="./github-profile-summary-cards-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./github-profile-summary-cards-output/default/3-stats.svg" alt="Stats" />
-  <img src="./github-profile-summary-cards-output/default/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/Rakeshvarma007/Rakeshvarma007/main/github-profile-summary-cards-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/Rakeshvarma007/Rakeshvarma007/main/github-profile-summary-cards-output/default/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/Rakeshvarma007/Rakeshvarma007/main/github-profile-summary-cards-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/Rakeshvarma007/Rakeshvarma007/main/github-profile-summary-cards-output/default/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Rakeshvarma007/Rakeshvarma007/main/github-profile-summary-cards-output/default/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ### ✍️ Random Dev Quote
