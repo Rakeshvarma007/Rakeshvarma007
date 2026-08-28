@@ -6,14 +6,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oMWttMXZ5czV2bThwc3Bhd2FzdThsaHIxb2g5cml1dm9ma2RkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1CrvUCoMxhy8/giphy.gif" width="100%" height="150px" style="object-fit: cover;">
 </p>
 
-# 💫 About Me:
-🎓 **B.Tech. Computer Science & Engineering** student at **IIIT Sri City**.
-
-* 📈 **Core Skills:** Python, Mathematics ($Calculus$, $Linear\ Algebra$, $Statistics$), NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, PyTorch, Transformers, OpenCV, Streamlit.
-* 🎯 **Career Focus:** Machine Learning, Deep Learning, ANN, LLMs, Transformer Architectures, Cloud Computing.
-* 🔥 **Ready for any challenge or opportunity.**
-
----
+<p align="center">
+  <img src="./github-profile-summary-cards-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img src="./github-profile-summary-cards-output/default/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./github-profile-summary-cards-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="./github-profile-summary-cards-output/default/3-stats.svg" alt="Stats" />
+  <img src="./github-profile-summary-cards-output/default/4-productive-time.svg" alt="Productive Time" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -35,5 +34,4 @@
 <a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/31705163" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://x.com/Rakesh_Varma0" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-<a href="mailto:rakeshvarmasirivuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
