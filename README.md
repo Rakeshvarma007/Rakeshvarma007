@@ -23,12 +23,6 @@
 ## 🧊Contribution:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## 📊 GitHub Analytics:
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rakeshvarma007&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshvarma007&theme=dark&layout=compact" alt="Languages" />
-</p>
-
 ## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
