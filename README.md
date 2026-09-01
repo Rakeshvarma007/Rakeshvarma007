@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70505&width=500&lines=Hi+I'm+Rakesh+Varma;Eager+to+learn;Building+the+Future" alt="Typing SVG" />
 </div>
-[Visit My Portfolio](https://rakeshvarma007.github.io/portfolio-website/)
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" href="https://rakeshvarma007.github.io/portfolio-website/" alt="Portfolio" />
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oMWttMXZ5czV2bThwc3Bhd2FzdThsaHIxb2g5cml1dm9ma2RkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1CrvUCoMxhy8/giphy.gif" width="100%" height="150px" style="object-fit: cover;">
