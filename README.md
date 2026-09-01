@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70505&width=500&lines=Hi+I'm+Rakesh+Varma;Eager+to+learn;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70505&width=500&lines=Hi+I'm+Rakesh+Varma;Eager+to+learn+and+build;Building+the+Future" alt="Typing SVG" />
 </div>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" href="https://rakeshvarma007.github.io/portfolio-website/" alt="Portfolio" />
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9oMWttMXZ5czV2bThwc3Bhd2FzdThsaHIxb2g5cml1dm9ma2RkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B1CrvUCoMxhy8/giphy.gif" width="100%" height="150px" style="object-fit: cover;">
 </p>
-
 <p align="center">
-  <a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/Rakesh_Varma0" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://stackoverflow.com/users/31705163" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://rakeshvarma007.github.io/portfolio-website/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+  <a href="https://linkedin.com/in/venkata-rakesh-varma-sirivuri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ### Languages
 <p align="left">
